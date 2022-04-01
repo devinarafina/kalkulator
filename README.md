@@ -1,7 +1,8 @@
 # kalkulator
 - Devina Rafina Larasati
 - Kelas B
-- Front End Developer (HTML, CSS, Java Script) 
+- 149173029100-1022
+- Front End Developer
 
 
 
